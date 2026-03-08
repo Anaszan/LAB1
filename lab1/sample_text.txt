@@ -1,0 +1,13 @@
+สวัสดีครับ ผมชื่อสมชาย
+Email: somchai.test@example.com
+โทร: 081-234-5678
+
+ติดต่อทีมงานได้ที่:
+- ฝ่ายขาย: sales@company.co.th
+- ฝ่ายสนับสนุน: support@company.co.th
+- CEO: ceo.admin@company.com
+
+สำหรับข้อมูลเพิ่มเติมติดต่อ:
+john.doe123@gmail.com หรือ jane_smith@university.ac.th
+
+Email ที่ไม่ถูกต้อง: invalid@, @invalid.com, test@.com
